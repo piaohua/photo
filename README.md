@@ -1,6 +1,6 @@
 # Photo
 
-This sample is a API application based on beego. It has two API func:
+    This sample is a API application based on beego. It has two API func:
 
 - /domainurl
 - /mmopen
